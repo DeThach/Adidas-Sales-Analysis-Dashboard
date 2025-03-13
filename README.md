@@ -3,18 +3,18 @@ This repository contains an Adidas Sales Dashboard built in Power BI, along with
 📂 Dataset Overview
 The dataset includes the following columns:
 
-Retailer – Name of the store or platform selling Adidas products
-Retailer ID – Unique identifier for each retailer
-Invoice Date – Date of the transaction
-Region – Geographic sales region
-State & City – Location details of the sale
-Product – Adidas product sold
-Units Sold – Quantity of products sold
-Price per Unit – Selling price of a single unit
-Total Sales – Revenue generated per transaction
-Operating Profit – Profit earned after operating expenses
-Operating Margin – Profitability percentage relative to sales
-Sales Method – Distribution method (e.g., online, in-store)
+Retailer – Name of the store or platform selling Adidas products.
+Retailer ID – Unique identifier for each retailer.
+Invoice Date – Date of the transaction.
+Region – Geographic sales region.
+State & City – Location details of the sale.
+Product – Adidas product sold.
+Units Sold – Quantity of products sold.
+Price per Unit – Selling price of a single unit.
+Total Sales – Revenue generated per transaction.
+Operating Profit – Profit earned after operating expenses.
+Operating Margin – Profitability percentage relative to sales.
+Sales Method – Distribution method (e.g., online, in-store).
 
 📊 Dashboard Features
 Sales Performance Analysis – Track total revenue, units sold, and price trends over time.
