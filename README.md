@@ -17,12 +17,14 @@ Operating Margin – Profitability percentage relative to sales.
 Sales Method – Distribution method (e.g., online, in-store).
 
 📊 Dashboard Features
+
 Sales Performance Analysis – Track total revenue, units sold, and price trends over time.
 Profitability Insights – Evaluate operating profit and operating margin across different regions and retailers.
 Regional & Retailer Comparison – Identify top-performing states and sales channels.
 Product Performance – Analyze the best-selling Adidas products and pricing trends.
 
 🔗 How to Use
+
 Download the Excel dataset from this repository.
 Open the Power BI dashboard (.pbix file) to explore and interact with the sales insights.
 
